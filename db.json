@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "title": "Fitbit Inspire 2 Fitness Tracker",
+      "price": "$99.95",
+      "descr": "Компактный фитнес-трекер с мониторингом активности, сердечного ритма и сна, длительным временем работы от батареи и водозащитой",
+      "image": "http://ae01.alicdn.com/kf/Hecb9013bf67445c293d5a17892ecb4e8c/LEMDIOE.jpg",
+      "id": 1
+    },
+    {
+      "title": "Under Armour Men's Tech 2.0 Short Sleeve T-Shirt",
+      "price": "$24.99",
+      "descr": " Удобная и вентилируемая футболка для занятий спортом, изготовленная из легкого материала с технологией быстрого высыхания.",
+      "image": "https://www.shopthings.com/image/cache/catalog/2016-New-T-shirt-men-Tights-Fitness-Quick-Dry-Casual-Stretch-Top-Tee-Shirt-Fitness-Mma-Plus-Size-Hot-32658638840-4-800x800.jpeg",
+      "id": 2
+    },
+    {
+      "title": "Gaiam Essentials Thick Yoga Mat",
+      "price": "$16.98",
+      "descr": "Толстый и удобный коврик для йоги, обеспечивающий амортизацию и комфорт во время практики.",
+      "image": "https://www.refinery29.com/images/9582567.jpg",
+      "id": 3
+    },
+    {
+      "title": "Osprey Packs Daylite Plus Daypack",
+      "price": "$65",
+      "descr": " Легкий и прочный дневной рюкзак с вместительным основным отделением и дополнительными карманами для походов, треккинга и ежедневных прогулок.",
+      "image": "https://tirol.ru/upload/resize_cache/iblock/efd/1000_1000_1c8d3b8bf8904cd61d95b56a4a9832795/efd06b0ef25010b6f640a9e1785309ea.jpg",
+      "id": 4
+    }
+  ]
+}
